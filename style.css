@@ -1,7 +1,7 @@
 *{
     margin: 0px;
     padding: 0px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family:  "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;;
 }
 
 nav{
@@ -126,7 +126,7 @@ span{
  .background{
         background-image: url(./images/pexels-franklin-eduardo-246995408-12436272.jpg);
         width: 100%;
-        height: 95%;
+        height: 100%;
         background-size: cover;
  }
  #bkgd{
@@ -159,11 +159,73 @@ span{
   text-align: center;
 }
 .background1{
-  background-image: url(./images/pexels-freestocks-839466.jpg);
+  background-image: url(./images/pexels-masoodaslami-18662753.jpg);
   width: 100%;
-  height: 90%;
+  height: 100%;
   background-size: cover;
 }
+.background2{
+  background-image: url(./images/pexels-dentrushtin-10019145.jpg);
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+}
+#btn3{
+  background-color: white;
+  border-radius: 15px;
+  border: 2px solid rgb(0, 113, 227);
+  color: rgb(0, 113, 227);
+  padding: 10px;
+  font-size: 15px;
+}
+.background3{
+  background-image: url(./images/pexels-japy-20447837.jpg);
+  background-size: cover;
+  width: 50%;
+  height: 50%;
+  display: inline-block;
+
+}
+.background4{
+  background-image: url(./images/pexels-japy-20447837.jpg);
+  background-size: cover;
+  width: 50%;
+  height: 50%;
+  display: inline-block;
+}
+.background5{
+  background-image: url(./images/pexels-japy-20447837.jpg);
+  background-size: cover;
+  width: 50%;
+  height: 50%;
+  display: inline-block;
+}
+.background6{
+  background-image: url(./images/pexels-japy-20447837.jpg);
+  background-size: cover;
+  width: 50%;
+  height: 50%;
+  display: inline-block;
+}
+.background7{
+  background-image: url(./images/pexels-japy-20447837.jpg);
+  background-size: cover;
+  width: 50%;
+  height: 50%;
+  display: inline-block;
+}
+.background8{
+  background-image: url(./images/pexels-japy-20447837.jpg);
+  background-size: cover;
+  width: 50%;
+  height: 50%;
+  display: inline-block;
+}
+
+
+ 
+
+ 
 
  
  
