@@ -13,7 +13,7 @@ nav{
 }
 
 span{
-    margin: 10px;
+    margin: 9px;
     font-size: 13px;
     opacity: 0.5;
     padding-left: 45px;
@@ -124,7 +124,7 @@ span{
       opacity: 1;
  }
  .background{
-        background-image: url(./images/pexels-franklin-eduardo-246995408-12436272.jpg);
+        background-image: url(./images/pexels-nacevski-nikola-1796853-13939986.jpg);
         width: 100%;
         height: 100%;
         background-size: cover;
@@ -179,48 +179,69 @@ span{
   font-size: 15px;
 }
 .background3{
-  background-image: url(./images/pexels-japy-20447837.jpg);
+  background-image: url(./images/pexels-joshsorenson-11237839.jpg);
   background-size: cover;
-  width: 50%;
-  height: 50%;
+  width: 49.5%;
+  height: 98%;
   display: inline-block;
 
 }
 .background4{
-  background-image: url(./images/pexels-japy-20447837.jpg);
+  background-image: url(./images/pexels-danbuilds-633409.jpg);
   background-size: cover;
-  width: 50%;
-  height: 50%;
+  width: 49.5%;
+  height: 98%;
   display: inline-block;
 }
+#watch{
+  font-size: 15px;
+  color: red;
+  text-align: center;
+}
 .background5{
-  background-image: url(./images/pexels-japy-20447837.jpg);
+  background-image: url(./images/pexels-yousefsammm-15951299.jpg);
   background-size: cover;
-  width: 50%;
-  height: 50%;
+  width: 49.5%;
+  height: 98%;
   display: inline-block;
 }
 .background6{
   background-image: url(./images/pexels-japy-20447837.jpg);
   background-size: cover;
-  width: 50%;
-  height: 50%;
+  width: 49.5%;
+  height: 98%;
   display: inline-block;
 }
 .background7{
   background-image: url(./images/pexels-japy-20447837.jpg);
   background-size: cover;
-  width: 50%;
-  height: 50%;
+  width: 49.5%;
+  height: 98%;
   display: inline-block;
 }
 .background8{
   background-image: url(./images/pexels-japy-20447837.jpg);
   background-size: cover;
-  width: 50%;
-  height: 50%;
+  width: 49.5%;
+  height: 98%;
   display: inline-block;
 }
+#div1{
+  display: flex;
+  justify-content: space-between;
+  height: 90%;
+}
+#div2{
+  display: flex;
+  justify-content: space-between;
+  height: 90%;
+}
+#div3{
+  display: flex;
+  justify-content: space-between;
+  height: 90%;
+}
+
 
 
  
