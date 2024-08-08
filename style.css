@@ -8,7 +8,6 @@ nav{
     background-color: black;
     color: white;
     padding: 15px;
-    
 
 }
 
@@ -126,7 +125,7 @@ span{
  .background{
         background-image: url(./images/pexels-nacevski-nikola-1796853-13939986.jpg);
         width: 100%;
-        height: 100%;
+        height: 80%;
         background-size: cover;
  }
  #bkgd{
@@ -140,6 +139,17 @@ span{
       text-align: center;
       font-size: 30px;
  }
+ #bkgd3{
+  color: black;
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+}
+#bkgd4{
+  color: black;
+  text-align: center;
+  font-size: 30px;
+}
  #btn1{
       background-color: rgb(0, 113, 227);
       border-radius: 15px;
@@ -159,15 +169,15 @@ span{
   text-align: center;
 }
 .background1{
-  background-image: url(./images/pexels-masoodaslami-18662753.jpg);
+  background-image: url(./images/mockup-free-opAeFlgyQqs-unsplash\(1\).jpg);
   width: 100%;
-  height: 100%;
+  height: 90%;
   background-size: cover;
 }
 .background2{
   background-image: url(./images/pexels-dentrushtin-10019145.jpg);
   width: 100%;
-  height: 100%;
+  height: 90%;
   background-size: cover;
 }
 #btn3{
@@ -179,68 +189,77 @@ span{
   font-size: 15px;
 }
 .background3{
-  background-image: url(./images/pexels-joshsorenson-11237839.jpg);
+  background-image: url(./images/miguel-hernandez-AwpxJRrVjM4-unsplash.jpg);
   background-size: cover;
-  width: 49.5%;
+  width: 49%;
   height: 98%;
   display: inline-block;
 
 }
 .background4{
-  background-image: url(./images/pexels-danbuilds-633409.jpg);
+  background-image: url(./images/wesson-wang-y0_vFxOHayg-unsplash.jpg);
   background-size: cover;
-  width: 49.5%;
+  width: 49%;
   height: 98%;
   display: inline-block;
 }
 #watch{
-  font-size: 15px;
+  font-size: 20px;
   color: red;
   text-align: center;
 }
 .background5{
-  background-image: url(./images/pexels-yousefsammm-15951299.jpg);
+  background-image: url(./images/klim-musalimov-0Bz1M8qBe3A-unsplash.jpg);
   background-size: cover;
-  width: 49.5%;
+  width: 49%;
   height: 98%;
   display: inline-block;
 }
 .background6{
-  background-image: url(./images/pexels-japy-20447837.jpg);
+  background-image: url(./images/AppleIntelligence-1718012127216.webp);
   background-size: cover;
-  width: 49.5%;
+  width: 49%;
   height: 98%;
   display: inline-block;
 }
 .background7{
   background-image: url(./images/pexels-japy-20447837.jpg);
   background-size: cover;
-  width: 49.5%;
+  width: 49%;
   height: 98%;
   display: inline-block;
 }
 .background8{
-  background-image: url(./images/pexels-japy-20447837.jpg);
+  background-image: url(./images/apple-trade-in-iphone-15-d.jpg);
   background-size: cover;
-  width: 49.5%;
+  width: 49%;
   height: 98%;
+}
+.background9{
+  background-image: url(./images/photo-1608446781624-bb081c6c0e18.avif);
+  background-size: cover;
+  height: 80%;
+  width: 100%;
   display: inline-block;
 }
+
+
 #div1{
   display: flex;
-  justify-content: space-between;
-  height: 90%;
+  justify-content: space-around;
+  height: 60%;
 }
 #div2{
   display: flex;
-  justify-content: space-between;
-  height: 90%;
+  justify-content: space-around;
+  height: 60%;
 }
 #div3{
   display: flex;
-  justify-content: space-between;
-  height: 90%;
+  justify-content: space-around;
+  height: 60%;
 }
+
 
 
 
